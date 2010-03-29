@@ -1,0 +1,3 @@
+Please note this SDK is an alpha release for interested early adopters only. It contains no documentation of its own. 
+
+Our core API reference (http://github.com/videojuicer/core-api-docs) contains all of the key conceptual and workflow ideas needed for any interaction with our service. This includes how to generate a consumer key and a walk through the OAuth process. As such, it should provide enough background to understand the classes and methods in this PHP SDK.
